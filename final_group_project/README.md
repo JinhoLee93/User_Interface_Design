@@ -34,7 +34,7 @@ We went through many thinking processes such as group brainstormings, regular me
 - Every group member had to participate in each task at hand, but they were responsible for organizing the structures of the topics of their choices. 
   - I was in charge of organizing Comparative Analysis, Risks to Mitigate, Project Task, and Future Plans.
 
-The design contains two separate parts, one for the smartphone app and the web-based platform and the other for the physical check-in and out kiosk.
+The interface design contains two separate parts, one for the smartphone app and the web-based platform and the other for the physical check-in and out kiosk.
 We created prototypes of the interfaces for each part using [Figma](https://www.figma.com/) so that what we have in our mind can be visualized.
 
 **[FIGMA (APP)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(APP).pdf)**
