@@ -39,6 +39,8 @@ We created prototypes of the interfaces for each part using [Figma](https://www.
 
 **[FIGMA (APP)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(APP).pdf)**
 - Contains the intended visuals for the interface design of the app and the platform. 
+- Point on focus: log-in process through the official Columbia website and reservation map
 
 **[FIGMA (KIOSK)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(KIOSKS).pdf)**
 - Contains the intended visuals for the interface design of the kiosk.
+- Point on focus: QR reader and seamless transition from app or platform to kiosk
