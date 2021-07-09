@@ -41,6 +41,10 @@ We went through many thinking processes such as group brainstormings, regular me
 
 **[UI Final Report](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/UI%20FINAL%20REPORT.pdf)**
 - The report contains various and specific information of the app design and our thought-process that went into the project.
+  - Design Storyboards:
+  - <img width="50%" height="50%" alt="Screen Shot 2021-07-09 at 9 51 51 PM" src="https://user-images.githubusercontent.com/60580427/125080529-dfbe3900-e0ff-11eb-8695-d18d55a2554d.png">
+  - Brainstorming process:
+  - <img width="50%" height="50%" alt="Screen Shot 2021-07-09 at 9 51 16 PM" src="https://user-images.githubusercontent.com/60580427/125080471-cae1a580-e0ff-11eb-91ea-e344563c7f25.png">
 - Every group member had to participate in each task at hand, but they were responsible for organizing the structures of the topics of their choices. 
   - I was in charge of organizing Comparative Analysis, Risks to Mitigate, Project Task, and Future Plans.
 
