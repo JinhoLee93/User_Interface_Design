@@ -16,7 +16,6 @@ The libraries on campus including Butler library have their own reservation syst
 - The reservation system in place for Butler Library:
 - <img width="50%" height="50%" alt="Screen Shot 2021-07-09 at 9 25 18 PM" src="https://user-images.githubusercontent.com/60580427/125077957-b4861a80-e0fc-11eb-9369-ab8dc856d5fd.png">
 
-Unlike the Chinese library, we separated the task into two parts. <br>
 We focused on seamless accessability that starts from users' phones or computers and ends at the kiosk machines that we were to place at the thresholds of the libraries. <br>
 The core fiber of our interface is simple. <br>
 Columbia students reserve their seats through the app on their phones or the platform on their computers, get a confirmation QR code, and scan it on the kiosks at the chosen libraries. <br>
