@@ -1,6 +1,6 @@
-# User Interface Design (COMS4170) Fall 2019
+# User Interface Design (COMS4170)
 
-**Taught by [Professor Brian Smith](http://www.cs.columbia.edu/~brian/)**
+**Taught by [Professor Brian Smith](http://www.cs.columbia.edu/~brian/) in Fall 2019**
 
 - [Whack-a-Mole Using JavaScript]()
   - Created the game of Whack-a-Mole using HTML, CSS, and JavaScript.
