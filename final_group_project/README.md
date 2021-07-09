@@ -12,9 +12,12 @@ However, the problem was not with the number of the libraries on campus. There a
 For example, even though there are more than five libraries on campus, many students leave their stuff on their newly, or previously-secured seats unattended, so, during the exam seasons, some sort of inextricable bottleneck effect in the number of the seats in the libraries happens (and fights really do happen over seats here and there in the libraries). <br>
 We thought this inevitable mayhem could be solved by a check-in and out system in place that can be implemented in the forms of a physical kiosk, an application and a web-based platform.<br>
 Some libraries all over the world are already implementing this idea and we tried to improve it in terms of user experiences and accessibility (with better visual flares as a bonus).<br>
-We chose a library in China that uses this idea as our base case.<br>
+The libraries on campus including Butler library have their own reservation system for conference rooms, i.e.) bigger rooms where meetings are allowed, but not for their seats and we chose a library in China that uses this idea to improve the interface further.<br>
+- The reservation system in place for Butler Library:
+- <img width="50%" height="50%" alt="Screen Shot 2021-07-09 at 9 25 18 PM" src="https://user-images.githubusercontent.com/60580427/125077957-b4861a80-e0fc-11eb-9369-ab8dc856d5fd.png">
+
 Unlike the Chinese library, we separated the task into two parts. <br>
-We focused on seamless accessability that starts from users' phones or computers and ends at the kiosk machines that we were to place at the thresholds of the libraries libraries. <br>
+We focused on seamless accessability that starts from users' phones or computers and ends at the kiosk machines that we were to place at the thresholds of the libraries. <br>
 The core fiber of our interface is simple. <br>
 Columbia students reserve their seats through the app on their phones or the platform on their computers, get a confirmation QR code, and scan it on the kiosks at the chosen libraries. <br>
 If some don't have any medium through which to make a reservation? They simply can walk up to the kiosks, and have their seats secured just like that.<br>
