@@ -46,6 +46,8 @@ We went through many thinking processes such as group brainstormings, regular me
 
 The interface design contains two separate parts, one for the smartphone app and the web-based platform and the other for the physical check-in and out kiosk.
 We created prototypes of the interfaces for each part using [Figma](https://www.figma.com/) so that what we have in our mind can be visualized.
+  
+**I encourage to see the files below as whole for the intended seamless experience**
 
 **[FIGMA (APP)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(APP).pdf)**
 - Contains the intended visuals for the interface design of the app and the platform. 
@@ -54,5 +56,3 @@ We created prototypes of the interfaces for each part using [Figma](https://www.
 **[FIGMA (KIOSK)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(KIOSKS).pdf)**
 - Contains the intended visuals for the interface design of the kiosk.
 - Point on focus: QR reader and seamless transition from app or platform to kiosk
-
-
