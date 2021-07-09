@@ -1,0 +1,156 @@
+/*
+Jinho Lee (jl5027)
+Prof. Brian Smith
+User Interface Design
+HW2(Whackstyle.css)
+*/
+
+.resultsWrapper{
+	text-align: center;
+	width: 800px;
+	margin-top: 0px;
+	left: 100px;
+	/*background-color: #01893f;*/
+	color: black;
+}
+
+.firstResult{
+	font: 20px Futura;
+	color: black;
+}
+.secondResult{
+	font: 20px Futura;
+	color: black;
+}
+.thirdResult{
+	font: 20px Futura;
+	color: black;
+}
+.fourthResult{
+	font: 20px Futura;
+	color: black;
+}
+.fifthResult{
+	font: 20px Futura;
+	color: black;
+}
+.sixthResult{
+	font: 20px Futura;
+	color: black;
+}
+.seventhResult{
+	font: 20px Futura;
+	color: black;
+}
+.eighthResult{
+	font: 20px Futura;
+	color: black;
+}
+.ninethResult{
+	font: 20px Futura;
+	color: black;
+}
+.tenthResult{
+	font: 20px Futura;
+	color: black;
+}
+
+.wrapper {
+	width: auto;
+	padding: 100px;
+	margin: 100px auto;
+	/*background-color: #01893f;*/
+	font: 20px Futura;
+	height: auto;
+	/*color: yellow;*/
+}
+
+.timerWrapper {
+	margin-left: 280px;
+	text-align: center;
+	float: left;
+}
+
+.timerWrapper h1{
+	line-height: 0;
+	font-weight: normal;
+	font-size: 50px;
+	color: black;
+}
+
+.timer {
+	text-align: center;
+	line-height: 0;
+	font-weight: normal;
+	font-size: 50px;
+	color: black;
+}
+
+.game-wrapper {
+	width: 800px;
+	margin: 150px auto;
+	padding: 47px;
+	padding-left: 47px;
+	height: 500px;
+}
+
+/*
+.mole-box{
+	width: 260px;
+	position:relative;
+	float: left;
+	height: 200px;
+	overflow: hidden;
+}
+*/
+/*
+.row:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+*/
+/*
+.hole{
+	width: 100px;
+	margin: 10px;
+	padding-left: 25px;
+}
+*/
+
+.mole{
+	width: 100px;
+	position: absolute;
+	margin: 10px;
+	left: 25px;
+	right: 5px;
+	top:100%;
+	/*transition: all 0.5s;*/
+}
+
+.mole.up{
+	top: 0%;
+}
+
+a{
+	text-decoration: none;
+	color: yellow;
+}
+
+.start{
+	/*background-color: #01893f;*/
+	position: absolute;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 298px;
+	font: 20px Futura;
+	color: black;
+	width: 200px;
+	left: 500px;
+	top: 230px;
+	height: 100px;
+}
