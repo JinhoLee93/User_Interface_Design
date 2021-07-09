@@ -30,7 +30,10 @@ We had to come up with solutions that would minimize that type of behavior among
 What we had to do was extremely simple. Just give them 3 strikes. <br>
 We give each student 3 strikes, each of which would go off when the students leave their seats for more than an hour.<br>
 During those "grace" hours, students may tend to their private business outside of the libraries, such as having a meal, doing a quick exercise, or having a phone call. <br>
-Each strike doesn't go off every time the students leave their seats. It goes off when they used up all the minutes of each hour because it would be unfair to the students if a strike goes off when they left their seats only for a ten-minute phone call.<br>
+Each strike doesn't go off every time the students leave their seats. It goes off when they used up all the minutes of each hour because it would be unfair to the students if a strike goes off when they left their seats only for a ten-minute phone call.
+  
+But, the main question is, how do we track if the students are out of the libraries?<br>
+Here, the biggest problem of the application lies. We are forced to track the users' movement at least while in the libraries so that we know for sure some users got out of their libraries. This will raise privacy concerns.
 
 We went through many thinking processes such as group brainstormings, regular meetings, and individual researches to reach the final product, detailed experiecnes of which are specifically denoted on the documents below.
 
@@ -49,3 +52,5 @@ We created prototypes of the interfaces for each part using [Figma](https://www.
 **[FIGMA (KIOSK)](https://github.com/JinhoLee93/User_Interface_Design/blob/main/final_group_project/FIGMA%20(KIOSKS).pdf)**
 - Contains the intended visuals for the interface design of the kiosk.
 - Point on focus: QR reader and seamless transition from app or platform to kiosk
+
+
