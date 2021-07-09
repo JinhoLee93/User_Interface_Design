@@ -18,6 +18,8 @@ Some libraries all over the world are already implementing this idea and we trie
 The libraries on campus including Butler library have their own reservation system for conference rooms, i.e.) bigger rooms where meetings are allowed, but not for their seats and we chose a library in China that uses this idea to improve the interface further.<br>
 - The reservation system in place for Butler Library:
 - <img width="50%" height="50%" alt="Screen Shot 2021-07-09 at 9 25 18 PM" src="https://user-images.githubusercontent.com/60580427/125077957-b4861a80-e0fc-11eb-9369-ab8dc856d5fd.png">
+- That of the Chinese library mentioned above:
+- <img width="626" alt="Screen Shot 2021-07-09 at 9 45 18 PM" src="https://user-images.githubusercontent.com/60580427/125079833-06c83b00-e0ff-11eb-866e-3e6edeb3071d.png">
 
 We focused on seamless accessability that starts from users' phones or computers and ends at the kiosk machines that we were to place at the thresholds of the libraries. <br>
 The core fiber of our interface is simple. <br>
